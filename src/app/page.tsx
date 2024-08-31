@@ -7,7 +7,7 @@ export default function Home() {
         {/* Hero Section */}
         <section className="text-center py-20">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">
-            Stack Overflow
+            Fix Overflow
           </h1>
           <p className="text-xl text-gray-400 mb-10 max-w-2xl mx-auto">
             Experience the power of simplicity with our professional and minimalist approach.
